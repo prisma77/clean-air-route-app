@@ -59,11 +59,11 @@ CleanAirRoute/
 
 프로젝트에서 사용하는 API 키는 다음과 같습니다:
 
-1. 서울시 열린데이터광장 API 키: `654c6b526370726936396744464a61`
-2. 기상청(에어코리아) API 키: `HDrUvxo%2B1Ryg4W5ghbWtIaZUpcUPZOOzWDvObxJrZ%2B16qWWzIgcP6Tm00bPQVvyv%2BTRkoXSPj0D3SRI%2B19t3lQ%3D%3D`
-3. 카카오맵 API 키:
-   - JavaScript 키: `cda9e4b3cf76e9f55582e991088a1aad`
-   - REST API 키: `65ad050c289c705eea7e72b1ad651af4`
+1. 서울시 열린데이터광장 API 키
+2. 기상청(에어코리아) API 키
+3. 네이버맵 API 키
+   - JavaScript 키
+   - REST API 키
 
 이 API 키들은 백엔드의 `.env` 파일에 저장되어 있습니다.
 
